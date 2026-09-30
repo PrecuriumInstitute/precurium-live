@@ -12,7 +12,7 @@ Diese Version ist technisch für den Upload auf GitHub Pages vorbereitet.
 - Hosting: GitHub Pages
 - Sprachen: Deutsch, Englisch, Arabisch
 - Social Links: Instagram, YouTube, LinkedIn, TikTok
-- Standorte: Stuttgart, Max Grundig Klinik Bühlerhöhe, ARCUS Kliniken Pforzheim, S | Medical-Center Neckarsulm/Heilbronn
+- Zentrale Kontakt- und Informationsplattform ohne Behandlungsstandorte oder Klinikzuordnungen
 
 ## SEO live
 - Startseiten DE/EN/AR sind auf `index,follow` gestellt.
@@ -22,7 +22,7 @@ Diese Version ist technisch für den Upload auf GitHub Pages vorbereitet.
 - Rechtstexte bleiben bewusst `noindex,follow`.
 
 ## Doctolib
-Der Stuttgart-/Prof.-Kruck-Button führt aktuell auf die allgemeine Doctolib-Seite, da kein eindeutig öffentlich verifizierbarer persönlicher Prof.-Kruck-Deep-Link gefunden wurde. Sobald der persönliche Link vorliegt, nur in `assets/config.js` die URL unter `doctolib.url` ersetzen.
+Die Terminbuttons führen auf die allgemeine Doctolib-Seite ohne Standortzuordnung. Sobald der persönliche Link vorliegt, nur in `assets/config.js` die URL unter `doctolib.url` ersetzen.
 
 ## Datenschutz
 Die Website ist bewusst datensparsam:
