@@ -5,7 +5,7 @@ Diese Version ist technisch für den Upload auf GitHub Pages vorbereitet.
 
 ### Eingetragen
 - Betreiber: Prof. Dr. med. Stephan Kruck
-- Anschrift: Reichbergweg 2, 72124 Pliezhausen
+- Anschrift: Rechbergweg 2, 72124 Pliezhausen
 - Telefon: 07127 7288978
 - E-Mail: info@precurium.com
 - Kammer: Landesärztekammer Baden-Württemberg
@@ -22,7 +22,9 @@ Diese Version ist technisch für den Upload auf GitHub Pages vorbereitet.
 - Rechtstexte bleiben bewusst `noindex,follow`.
 
 ## Doctolib
-Die Terminbuttons führen auf die allgemeine Doctolib-Seite ohne Standortzuordnung. Sobald der persönliche Link vorliegt, nur in `assets/config.js` die URL unter `doctolib.url` ersetzen.
+Die Praxis ist im Aufbau. Auf allen drei Startseiten wird statt einer aktiven Buchungsmöglichkeit die spätere Freischaltung angekündigt. Doctolib ist in `assets/config.js` deaktiviert und die URL ist leer. Erst nach Vertragsabschluss und abgeschlossener Einrichtung den persönlichen Link eintragen, die Buchung aktivieren und die Hinweise in allen Sprachfassungen aktualisieren. Buchungslinks müssen dann in den Startseiten ergänzt und sprachgerecht beschriftet werden.
+
+Die Anschrift Rechbergweg 2, 72124 Pliezhausen dient als Kontakt-/Impressumsadresse; ein Behandlungsstandort wird damit nicht zugesagt.
 
 ## Datenschutz
 Die Website ist bewusst datensparsam:

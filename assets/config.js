@@ -1,9 +1,9 @@
 // PRECURIUM – zentrale externe Links. Bei Änderungen nur hier anpassen.
 window.PRECURIUM_CONFIG = {
   doctolib: {
-    enabled: true,
-    // Aktuell allgemeiner Doctolib-Zugang; später optional durch persönlichen Prof.-Kruck-Deep-Link ersetzen.
-    url: "https://www.doctolib.de/",
+    enabled: false,
+    // Erst nach Vertragsabschluss und abgeschlossener Einrichtung den persönlichen Link eintragen.
+    url: "",
     label: "Termin über Doctolib"
   },
   social: {
