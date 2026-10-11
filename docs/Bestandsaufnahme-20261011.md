@@ -2,7 +2,7 @@
 
 Stand: 11.10.2026.
 
-Aktualisierung nach Nutzerkorrektur: CURE soll entfallen; der Nutzer möchte bei „Kea“ bleiben. Im bisherigen Website-Text steht CARE. Die genaue Schreibweise (CARE oder KEA) und die dazu passende Original-Logo-Datei sind noch zu bestätigen. Frühere CURE-Vorgaben in diesem Bericht sind damit aufgehoben; der Dateiname 06_LOGO_ORIGINAL_CURE.jpg bezeichnet nur die zuvor angeforderte Datei und ist keine aktuelle Wortlautvorgabe.
+Aktualisierung nach Nutzerbestätigung: Verbindlich ist CARE. Logo-Wortlaut: PREVENTION | PRECISION | INTEGRATION | CARE. CURE entfällt. Der Nutzer hat die Unterlagen nach eigener Angabe vollständig im Projekt „Homepage prüfen“ hinterlegt; der Zugriff auf diese Projektdateien ist noch nicht hergestellt. Der alte Dateiname 06_LOGO_ORIGINAL_CURE.jpg ist keine aktuelle Wortlautvorgabe.
 
 Diese Bestandsaufnahme ist eine Vorbereitung der Umsetzung, kein Abschlussbericht und keine Freigabe zum Livegang.
 
@@ -37,7 +37,7 @@ Keine Änderungen an main, Domain, DNS, CNAME, HTTPS oder Pages-Quelle. Keine Ve
 ## Abweichungen vom verbindlichen Auftrag
 
 - Deutsche Startseite enthält "Privatpraxis im Aufbau", "Geplantes Leistungsspektrum", Hinweise auf Praxisstart und inaktive Buchungselemente. EN/AR enthalten entsprechende Vorankündigungen.
-- Prinzipienband und Footer verwenden CARE. CURE wurde durch die jüngste Nutzerkorrektur verworfen; die genaue Schreibweise von „Kea“ ist noch offen.
+- Prinzipienband und Footer verwenden CARE. Das entspricht der jüngsten bestätigten Wortlautvorgabe. Die Original-Logo-Datei muss dennoch tatsächlich geprüft werden.
 - Aktuelle Seite verwendet eine stilisierte MRT-Darstellung und ein Biobot-Technologiebild.
 - Drei freigegebene Standortkacheln und das regionale Abschlussband sind noch nicht vorhanden.
 - Leistungsinformationen sind überwiegend Abschnitte derselben Startseite; eigenständige Leistungsseiten fehlen.
@@ -81,7 +81,7 @@ Standorte gemäß Nutzerfreigabe:
 
 Abschlussband: "Lassen Sie uns gemeinsam den nächsten Schritt gehen."; echte HTML-Schaltflächen "Termin anfragen" und "Mehr erfahren".
 
-Originalporträt, Arztzimmer, MRT und Logo schützen. Keine neuen Bilder oder zusätzlichen Logos erzeugen. Die Gesichtsdarstellung bleibt unverändert; am Arztzimmer ausschließlich die freigegebene Logo-Montage. Logo-Wortlaut: PREVENTION | PRECISION | INTEGRATION | letzter Begriff gemäß jüngster Nutzerkorrektur. CURE entfällt; CARE/KEA vor Umsetzung bestätigen und ausschließlich das passende Original-Logo verwenden.
+Originalporträt, Arztzimmer, MRT und Logo schützen. Keine neuen Bilder oder zusätzlichen Logos erzeugen. Die Gesichtsdarstellung bleibt unverändert; am Arztzimmer ausschließlich die freigegebene Logo-Montage. Logo-Wortlaut: PREVENTION | PRECISION | INTEGRATION | CARE. CURE entfällt. Ausschließlich das passende Original-Logo verwenden.
 
 DE/EN/AR erhalten. Keine neuen Tracker, Gesundheitsdatenformulare, erfundenen Leistungen oder ungeprüften Buchungslinks.
 
